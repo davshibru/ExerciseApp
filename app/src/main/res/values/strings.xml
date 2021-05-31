@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ExerciseApp</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+
+    <string name="next">Next Exercise</string>
+
+    <string name="change_or_delete_exercise">Edit or Delete exercise?</string>
+    <string name="do_you_want_watch_more_information_about_sport">Do you want watch more information about sport in site?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+
+    <string name="start_training">Start training?</string>
+
+    <string name="save">Save?</string>
+
+    <string name="remove">Remove from list</string>
+
+    <string name="current_exercise">Current exercise:</string>
+
+    <string name="exercise">List of exercise:</string>
+
+    <string name="list_exercise">Current exercise:</string>
+</resources>
